@@ -12,8 +12,7 @@
   "footer": "Powered by <a href=\"https://github.com/spencerwooo/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.",
   "protectedRoutes": [
     "/",
-    "/Pics",
-    "/🥟 Some test files/Protected route"
+    "/Pics"
   ],
   "email": "mailto:spencer.wushangbo@gmail.com",
   "links": [
